@@ -1,0 +1,8 @@
+.login__link {
+    transition: color 0.2s ease-out;
+    text-decoration: underline;
+  }
+  
+  .login__link:hover {
+    color: #3cc755;
+  }
